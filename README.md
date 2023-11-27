@@ -23,7 +23,7 @@ A terme, j'aimerais devenir DevOps !
 - **Langages de Programmation**:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,html,css,js,php,java,kotlin,cs" />
+      <img src="https://skillicons.dev/icons?i=python,html,css,js,php,java,kotlin,cpp" />
     </a>
   </p>
 - **Bases de Données**:
@@ -35,7 +35,7 @@ A terme, j'aimerais devenir DevOps !
 - **Outils et Technologies**:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,jenkins,docker,ansible,linux" />
+      <img src="https://skillicons.dev/icons?i=git,jenkins,docker,ansible,linux,proxmox" />
     </a>
   </p>
 - **Design Web et Applications** :
@@ -48,7 +48,7 @@ A terme, j'aimerais devenir DevOps !
 ## 🛠️ Projets Réalisés
 - **Ray Tracing (IUT)** :
   >Développement d'un programme permettant de générer des images réalistes avec des formes 3D, le tout sans librairie.
-![My Skills](https://skillicons.dev/icons?i=cs,java)
+![My Skills](https://skillicons.dev/icons?i=cpp,java)
 - **Réalisation d'un blog (IUT)** :
   >Réaliser un blog web avec Symfony en implémentant diverses fonctionnalités comme des comptes et des commentaires.
 ![My Skills](https://skillicons.dev/icons?i=symfony,php)
