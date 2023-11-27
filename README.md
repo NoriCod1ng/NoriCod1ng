@@ -35,7 +35,7 @@ A terme, j'aimerais devenir DevOps !
 - **Outils et Technologies**:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,jenkins,docker,ansible,linux,proxmox" />
+      <img src="https://skillicons.dev/icons?i=git,jenkins,docker,ansible,linux" />
     </a>
   </p>
 - **Design Web et Applications** :
