@@ -54,7 +54,7 @@ A terme, j'aimerais devenir DevOps !
 ![My Skills](https://skillicons.dev/icons?i=symfony,php)
 - **Réalisation d'un site web (IUT)** :
   >Concevoir un site web servant à visualiser ses temps sur le circuit du Val de Vienne ainsi que celui des autres.
-  >[Lien](https://github.com/Noricod1ng/circuit_val_de_vienne)
+  >[Répertoire](https://github.com/Noricod1ng/circuit_val_de_vienne)
 ![My Skills](https://skillicons.dev/icons?i=laravel)
 - **Gestionnaire de Skins CS2** :
   >Permettre de suivre les tendances de prix de son inventaire de jeu, en récupérant des informations sur plusieurs plateformes.
