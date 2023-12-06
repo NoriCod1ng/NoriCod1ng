@@ -47,18 +47,21 @@ A terme, j'aimerais devenir DevOps !
 
 ## 🛠️ Projets Réalisés
 - **Ray Tracing (IUT)** :
-  >Développement d'un programme permettant de générer des images réalistes avec des formes 3D, le tout sans librairie.
-![My Skills](https://skillicons.dev/icons?i=cpp,java)
+  >Développement d'un programme permettant de générer des images réalistes avec des formes 3D, le tout sans librairie.<br>
+  >*Compétence 1, 2 et 6*<br>
+  >![My Skills](https://skillicons.dev/icons?i=cpp,java)
 - **Réalisation d'un blog (IUT)** :
-  >Réaliser un blog web avec Symfony en implémentant diverses fonctionnalités comme des comptes et des commentaires.
-![My Skills](https://skillicons.dev/icons?i=symfony,php)
+  >Réaliser un blog web avec Symfony en implémentant diverses fonctionnalités comme des comptes et des commentaires.<br>
+  >*Compétence 1*<br>
+  >![My Skills](https://skillicons.dev/icons?i=symfony,php)
 - **Réalisation d'un site web (IUT)** :
-  >Concevoir un site web servant à visualiser ses temps sur le circuit du Val de Vienne ainsi que celui des autres.
-  >[Répertoire](https://github.com/Noricod1ng/circuit_val_de_vienne)
-![My Skills](https://skillicons.dev/icons?i=laravel)
+  >Concevoir un site web servant à visualiser ses temps sur le circuit du Val de Vienne ainsi que celui des autres.<br>
+  >*Compétence 1*<br>
+  >[Répertoire](https://github.com/Noricod1ng/circuit_val_de_vienne)<br>
+  >![My Skills](https://skillicons.dev/icons?i=laravel)
 - **Gestionnaire de Skins CS2** :
-  >Permettre de suivre les tendances de prix de son inventaire de jeu, en récupérant des informations sur plusieurs plateformes.
-![My Skills](https://skillicons.dev/icons?i=electron,nodejs)
+  >Permettre de suivre les tendances de prix de son inventaire de jeu, en récupérant des informations sur plusieurs plateformes.<br>
+  >![My Skills](https://skillicons.dev/icons?i=electron,nodejs)
 
 ## 🎮 Loisirs et Intérêts Personnels
 En dehors de l'informatique, je suis un fervent coureur, un gamer enthousiaste, et j'apprécie l'escalade. Ces hobbies m'aident à rester équilibré et motivé.
